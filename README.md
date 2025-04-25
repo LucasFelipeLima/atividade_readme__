@@ -1,2 +1,2 @@
 # atividade_readme__
-concluindo a atividade do curso.
+repositorio feito. concluindo a atividade do curso.
